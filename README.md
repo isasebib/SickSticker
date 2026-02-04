@@ -80,9 +80,7 @@ This is primarily a personal learning project, but feedback and suggestions are 
 ## 📜 License
 MIT
 
-<img width="1920" height="1080" alt="HomePage-ss" src="https://github.com/user-attachments/assets/dabba2d3-c4ad-4cdb-955a-b868fd7f4ac1" 
-<img width="1920" height="1080" alt="HomePage-ss" src="https://github.com/user-attachments/assets/feec17dd-ec42-4868-ac23-b5e2409dc3ca" />
-/>
-<img width="1920" height="1080" alt="HomePage-ss" src="https://github.com/user-attachments/assets/0452fa25-3e00-403d-9a0d-f3565303276c" />
-<img width="1920" height="1080" alt="HomePage-ss" src="https://github.com/user-attachments/assets/4458290b-998e-4fdb-8e15-0d4a14130619" />
-
+<img width="1731" height="919" alt="HomePage-ss" src="https://github.com/user-attachments/assets/e21b0590-dac8-4378-b813-9379640d4117" />
+<img width="1758" height="926" alt="HomePage-ss1" src="https://github.com/user-attachments/assets/0033b543-909e-408e-9fc3-3f8058b04a72" />
+<img width="1738" height="930" alt="HomePage-ss2" src="https://github.com/user-attachments/assets/f41137f2-9834-4d77-a0b4-f1eb4649d70d" />
+<img width="1775" height="915" alt="HomePage-ss3" src="https://github.com/user-attachments/assets/65b2772d-ad0c-447a-9cce-352610c60957" />
